@@ -6,12 +6,12 @@
 // Create variables and use them to tell everyone my name!
 
 // All the variables being used.
-var name = "Tyler"; // Tell everyone my name!
-var age = 21; // Tell everyone my age as well!
-var employed = true; // Tell people that I am currently employed.
-var jobOccupation = "Counter Sales"; // Discuss my job title.
-var jobName = "Napa Auto Parts"; // Where I work at
-var hobbies = "Gaming, Learning Code, and Developing Ideas!"; // List my hobbies! (Note: I forgot how to create a list.)
+var name = "Tyler"; // Tell everyone my name! (THIS IS A STRING VARIABLE)
+var age = 21; // Tell everyone my age as well! (THIS IS A NUMBER VARIABLE)
+var employed = true; // Tell people that I am currently employed. (THIS IS A BOOLEAN VARIABLE)
+var jobOccupation = "Counter Sales"; // Discuss my job title. (THIS IS ANOTHER STRING VARIABLE)
+var jobName = "Napa Auto Parts"; // Where I work at (THIS IS ANOTHER STRING VARIABLE)
+var hobbies = "Gaming, Learning Code, and Developing Ideas!"; // List my hobbies! (Note: I forgot how to create a list.) (THIS IS ANOTHER STRING VARIABLE)
 
 // Greet the user!
 var greet = "Welcome! Let me show you who I am."; // Create a greet variable to include a message.
