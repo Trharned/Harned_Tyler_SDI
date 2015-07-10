@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b73d4746-2afe-4dd8-a371-c01215dcd998" name="Default" comment="" />
+    <list default="true" id="b73d4746-2afe-4dd8-a371-c01215dcd998" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Harned_Tyler_Output_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Harned_Tyler_Output_Assignment/js/script.js" />
+    </list>
     <ignored path="Harned_Tyler_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Harned_Tyler_Output_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39256197">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.6404959">
+              <caret line="31" column="139" selection-start-line="31" selection-start-column="139" selection-end-line="31" selection-end-column="139" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -498,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Harned_Tyler_Output_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39256197">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.6404959">
+          <caret line="31" column="139" selection-start-line="31" selection-start-column="139" selection-end-line="31" selection-end-column="139" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
