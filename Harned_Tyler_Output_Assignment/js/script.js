@@ -3,14 +3,9 @@
 // Output Assignment
 // July 9th, 2015
 
-// Different Types of variables
-// var age = 38; Number Variable
-// var isStudent = true; // Boolean Variable (True or false variable)
-// var firstName = "Tyler"; // String Variable
-
-
 // Create variables and use them to tell everyone my name!
 
+// All the variables being used.
 var name = "Tyler"; // Tell everyone my name!
 var age = 21; // Tell everyone my age as well!
 var employed = true; // Tell people that I am currently employed.
