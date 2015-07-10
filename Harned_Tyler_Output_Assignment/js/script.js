@@ -31,6 +31,17 @@ console.log("The creator's name is "+name+" and is "+age+" years old."); // Log 
 alert("It's "+employed+" that I am currently employed.\n\nI currently do "+jobOccupation+" at "+jobName+".");// Alert the user some job information
 console.log("The creator is employed: "+employed+".\nThe user does "+jobOccupation+" at "+jobName+"."); // Log the results of my occupation
 
+// Alert the user my hobbies!
+alert("My hobbies include: \n"+hobbies); // Alert the user my hobbies in a new line.
+console.log("The creator's hobbies include: "+hobbies+"."); // Log my hobbies into the console.log
+
+// Say good-bye to the user!
+alert("It's time for me to go now!\nHope you've enjoyed and learned a little about me."); // Tell the user good-bye in a alert.
+console.log("Terminating. Good-Bye!"); // Log the results that the end is near. Also that it's terminating.
+
+
+// THIS IS OLD CODE
+
 /*alert("Hell there!\nLet me tell you a little about myself in the console!\nPlease make sure you can view the console."); // Tell everyone what I will be doing and get them ready.
 console.log("Hello world! My name is "+name+" and I am "+age+" years old. It is "+employed+" that I am currently employed at "+jobName+". What I do at "+jobName+" is "+jobOccupation+"."); // Combine all the things! This is where I discuss who I am, how old I am, what I do. Apart from that, I will discuss my hobby.
 console.log("Well, that is it about me! One last thing before I go; My hobbies include "+hobbies+" See you later!"); // List my hobbies and say goodbye.*/
