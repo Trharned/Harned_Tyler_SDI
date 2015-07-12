@@ -18,7 +18,7 @@ console.log("Sparky is "+sparkysAge+" in human years.");
 var dogYears = sparkysAge * 7;
 
 // Let the user know how old sparky is in dog years.
-alert("Sparky is "+sparkysAge+" humans years old which is  "+dogYears+" in dog years.");
+alert("Sparky is "+sparkysAge+" human years old which is  "+dogYears+" in dog years.");
 
 // Print the final result to the console.
-console.log("Sparky is "+sparkysAge+" humans years old which is "+dogYears+" in dog years.");
+console.log("Sparky is "+sparkysAge+" human years old which is "+dogYears+" in dog years.");
