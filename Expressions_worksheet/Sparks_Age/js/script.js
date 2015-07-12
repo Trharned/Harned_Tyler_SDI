@@ -12,7 +12,7 @@ July 11th, 2015
 var sparkysAge = prompt("What is Sparky's age in human years?");
 
 // Print the result to the console
-console.log("Sparky's age is "+sparkysAge+" in human years.");
+console.log("Sparky is "+sparkysAge+" in human years.");
 
 // Create the calculation to determine his age in dog years
 var dogYears = sparkysAge * 7;
