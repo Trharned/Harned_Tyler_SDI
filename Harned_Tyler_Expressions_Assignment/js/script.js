@@ -26,5 +26,15 @@ console.log("The user today is "+myName+"."); // Log the results into the consol
 
 alert("Today, "+myName+", we shall test to see how many treats your cat or dog eats weekly, monthly, or yearly."); // Let the user know what we're here for
 
-myAnimal = prompt("To start, what type of pet do you have? ");
-console.log("Today, we will be testing to see how many treats "+myName+"'s "+myAnimal+" eats!");
+myAnimal = prompt("To start, what type of pet do you have? "); // Ask the user what type of animal they have. Set as a variable.
+console.log("Today, we will be testing to see how many treats "+myName+"'s "+myAnimal+" eats!"); // Log that into the console.
+
+// END GREETING MESSAGE / PET INFORMATION
+
+alert("Great! We'll first need some basic information about your "+myAnimal+"."); // Alert the user of what's going on next.
+
+dailyTreats = prompt("To start off, how many treats does your "+myAnimal+" eat a day?"); // Ask the user how many treats their pet eats a day.
+console.log(myName+"'s "+myAnimal+" eats "+dailyTreats+" treats daily."); // Log that information to the console.
+
+// END DAILY TREATS
+
