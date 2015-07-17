@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73d4746-2afe-4dd8-a371-c01215dcd998" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/index.html" afterPath="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/js/script.js" />
     </list>
     <ignored path="Harned_Tyler_SDI.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7307692">
-              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.8076923">
+              <caret line="42" column="114" selection-start-line="42" selection-start-column="114" selection-end-line="42" selection-end-column="114" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -129,8 +128,8 @@
         <option value="$PROJECT_DIR$/Expressions_worksheet/Slice of Pie II/js/script.js" />
         <option value="$PROJECT_DIR$/website/js/script.js" />
         <option value="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/css/styles.css" />
-        <option value="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/js/script.js" />
         <option value="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/index.html" />
+        <option value="$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/js/script.js" />
       </list>
     </option>
   </component>
@@ -787,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Harned_Tyler_Expressions_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7307692">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.8076923">
+          <caret line="42" column="114" selection-start-line="42" selection-start-column="114" selection-end-line="42" selection-end-column="114" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

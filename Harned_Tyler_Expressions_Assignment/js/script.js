@@ -38,3 +38,8 @@ console.log(myName+"'s "+myAnimal+" eats "+dailyTreats+" treats daily."); // Log
 
 // END DAILY TREATS
 
+testMethod = prompt("We'll need to see how you want to test this.\nPlease enter weekly, monthly, or yearly: "); // See how the user wants to test and store it
+alert("Great! So we will test "+testMethod+" then."); // Alert the user what they selected.
+console.log("It appears that "+myName+" wants to test "+testMethod+"."); // Log that information into the console.
+
+// END TEST METHOD
