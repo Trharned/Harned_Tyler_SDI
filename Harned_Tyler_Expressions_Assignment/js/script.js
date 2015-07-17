@@ -45,3 +45,5 @@ alert("Thank you for using this today, "+myName+"!\nHave a good day!"); // End t
 console.log("Goodbye!"); // Log that into the console.
 
 // END END MESSAGE
+
+// END SCRIPT
