@@ -43,3 +43,20 @@ alert("Great! So we will test "+testMethod+" then."); // Alert the user what the
 console.log("It appears that "+myName+" wants to test "+testMethod+"."); // Log that information into the console.
 
 // END TEST METHOD
+
+if(testMethod = "weekly" || "Weekly" || "WEEKLY"){ // Test to see if the user typed weekly.
+    weeklyResults = prompt("Please enter how many weeks you wish to test for: "); // If above is true, run this message.
+    console.log(myName+" wants to test for "+weeklyResults+" week(s)."); // Log that information to the console.
+    weeklyEndResult = weeklyResults * 7 * dailyTreats; // Do some calcuations and store it as a variable.
+    alert(myName+", it appears that your "+myAnimal+" eats a total of "+dailyTreats+" treat(s) a day.\nThis means that your "+myAnimal+" eats a total of "+weeklyEndResult+" in "+weeklyResults+" week(s)."); // Alert the user of the end result.
+    console.log("The "+myAnimal+" eats a total of "+weeklyEndResult+" treats in "+weeklyResults+" week(s)."); // Log that into the console.
+}
+
+// END WEEKLY TESTING
+
+
+
+alert("Thank you for using this today, "+myName+"!\nHave a good day!"); // End the program with a message.
+console.log("Goodbye!"); // Log that into the console.
+
+// END END MESSAGE
