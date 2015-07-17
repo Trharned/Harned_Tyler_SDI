@@ -2,16 +2,24 @@
  Tyler Harned
  Full Sail University
  SDI 01
- Expressions Worksheet - Slice of Pie I
+ Expressions Worksheet - Slice of Pie II
  July 11th, 2015
  */
 
-// Create a calculator to determine how many slices of pie each person will get at a party
+/*
+ At the pizza party Sparky, the host’s dog is excited, because he gets the leftover pizza after the slices have been divided up evenly among the guests. Assume guests get whole slices, how many whole slices will Sparky feast on?
 
-//Create the variable's for each parts needed
-// Number of slices per pizza
-// Number of people at the party
-// Number of pizzas ordered.
+ Example data set: 10 people, 4 pizzas and 8 slices per pizza will mean each person eats 3 slices and Sparky gets 2 slices. (Note that this is an example, your code should work and give me the accurate results no matter what numbers I put in for those given variables.)
+ Given:
+
+ Don’t make new given variables/constants for this. Instead use the givens you set up for Slice of Pie I.
+ Result Variables:
+
+ Number of slices Sparky gets to eat.
+ Result to Print:
+
+ “Sparky got X slices of pizza.”
+ */
 
 // Create a variable to hold how many slices there is in a pizza
 var slicesPer = prompt("How many slices are in a pizza?");
@@ -31,4 +39,4 @@ console.log("There where a total of "+totalPizzas+" ordered.");
 // Create the calculations to determine the results.
 var results = slicesPer * totalPizzas / totalPeople;
 // Log that into the console.
-console.log("Each person ate "+results+" slices of pizza at the party.");
+console.log("Each person ate "+math.round(results)+" slices of pizza at the party.");
