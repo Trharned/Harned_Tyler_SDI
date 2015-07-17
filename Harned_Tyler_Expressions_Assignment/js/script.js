@@ -19,3 +19,12 @@ var yearlyResults; // Used for the final results of yearly.
 var weeklyEndResult; // Used for the weekly calculations
 var monthlyEndResults; // Used for the monthly calculations
 var yearlyEndResults; // Used for the yearly calculations
+
+// PROMPTS
+myName = prompt("Please type in your first name: "); // Gather information about the user.
+console.log("The user today is "+myName+"."); // Log the results into the console.
+
+alert("Today, "+myName+", we shall test to see how many treats your cat or dog eats weekly, monthly, or yearly."); // Let the user know what we're here for
+
+myAnimal = prompt("To start, what type of pet do you have? ");
+console.log("Today, we will be testing to see how many treats "+myName+"'s "+myAnimal+" eats!");
