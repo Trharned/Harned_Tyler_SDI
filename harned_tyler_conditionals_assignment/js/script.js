@@ -19,10 +19,10 @@ console.log("It is " + drinker + " that I am a drinker."); // Tell the console i
 console.log("It is " + drunk + " that I am drunk."); // Tell the console if you're drunk
 
 // TEST VARIABLE
-validAge = myAge - drinkingAge; // Do an operation to see if the user is old enough to drink.
+validAge = myAge >= 21;
 
 // CONDITIONS TO RUN IF TRUE OR FALSE
-if(validAge >= 21) { // Test to see if the user is above 21
+if(myAge >= validAge) { // Test to see if the user is above 21
     alert("It looks like you can drink!."); // Let the user know that they can drink.
     console.log("The user can drink, for they are " + myAge + " years old."); // Log that into the console.
 
@@ -39,7 +39,7 @@ if(validAge >= 21) { // Test to see if the user is above 21
             alert("Great! It looks like you have enough money."); // Alert the user that they have enough money
             drinkCost = prompt("Please type in how much drinks cost: \nOnly use numbers!"); // Create a Drink Cost Variable
             console.log("Drinks cost $" + drinkCost + " a piece."); // Tell the user how much drinks cost
-            totalDrinks = money / drinkCost; // Create a equation to determine how many drinks they can get
+            totalDrinks = Math.round(money / drinkCost); // Create a equation to determine how many drinks they can get
             console.log(myName + " can drink a total of " + totalDrinks + " drinks."); // Tell the user how many drinks the user can get
             alert(myName + ", you can drink a total of " + totalDrinks + " drinks."); // Alert the user how many drinks they can have.
             alert("Hope you enjoyed!\nRefresh the browser to reload the script.");
