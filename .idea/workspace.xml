@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73d4746-2afe-4dd8-a371-c01215dcd998" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/harned_tyler_conditionals_assignment/index.html" afterPath="$PROJECT_DIR$/harned_tyler_conditionals_assignment/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/harned_tyler_conditionals_assignment/js/script.js" afterPath="$PROJECT_DIR$/harned_tyler_conditionals_assignment/js/script.js" />
     </list>
     <ignored path="Harned_Tyler_SDI.iws" />
@@ -37,8 +36,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/harned_tyler_conditionals_assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15384616">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.5769231">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -766,8 +765,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/harned_tyler_conditionals_assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15384616">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5769231">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
